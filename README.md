@@ -1,6 +1,4 @@
-# Aplicação
-Agenda contatos (youtube, professor José de Assis)
-
+# Aplicação Agenda de contatos
 ## Objetivo
   Aprender as seguintes tecnologias:
 - JavaEE
